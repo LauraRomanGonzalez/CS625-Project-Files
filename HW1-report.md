@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-Insert Your Name Here  
+Laura Roman-Gonzalez  
 CS 625, Fall 2025  
 Due: September 7, 2025
 
