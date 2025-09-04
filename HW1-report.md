@@ -7,8 +7,8 @@ Due: September 7, 2025
 ## Git, GitHub
 
 ### Q1 - URL of GitHub Repo
-
-Insert your answer and explanation here
+The URL for the GitHub Repo is: https://github.com/LauraRomanGonzalez/CS625-Project-Files/tree/main.  
+In this URL one should be able to find at least three different files, two of them were new create files (Test and Project) and an uploaded file (LCRG HW1-report.md).
 
 ### Q2 - Pull Command
 
