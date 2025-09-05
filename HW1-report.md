@@ -32,7 +32,7 @@ If the change is not seen in GitHub there could be potentially one of the three 
 
 The next step is for me to add a picture of my dog **Sammy**. He is an *Australian sheperd*. He is 8 years old, and red merle. He travel from Mississipi to ***Virgina*** with me when he was adopted.
 
-[I'm an inline-style link]([https://www.akc.org/dog-breeds/australian-shepherd/])
+[Aussie Information](https://www.akc.org/dog-breeds/australian-shepherd/)
 
 I will use an 'git pull' to pull the updated files with Sammy's picture back to my local drive.
 
