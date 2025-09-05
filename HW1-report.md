@@ -46,7 +46,7 @@ I will use an 'git pull' to pull the updated files with Sammy's picture back to 
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+<img src="SouthPlot.png" height="550" alt="This is a picture of my dog.">
 
 ## Google Colab
 
