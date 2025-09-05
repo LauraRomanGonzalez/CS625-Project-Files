@@ -52,7 +52,7 @@ I will use an 'git pull' to pull the updated files with Sammy's picture back to 
 
 ### Q1 - URL of Google Colab Notebook
 
-Insert your answer and explanation here
+[Colab Line CS625 Folder](https://drive.google.com/drive/folders/1dq20nE0cIIs1y-GNWwB0xK-Wj_bza9fW?usp=sharing)
 
 ## Python/Seaborn
 
