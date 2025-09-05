@@ -30,7 +30,11 @@ Insert your answer and explanation here
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+# My Dog
+Picture of my dog Sammy:
+
+![My Dog](Sammy.jpeg)
+
 
 ## Tableau
 
