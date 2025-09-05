@@ -12,7 +12,7 @@ In this URL one should be able to find at least three different files, two of th
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+Pull command gets the files from GitHub and can send it tothe local computer, and viceversa.
 
 ### Q3 - Local Commits
 
