@@ -37,9 +37,7 @@ The next step is for me to add a picture of my dog **Sammy**. He is an *Australi
 I will use an 'git pull' to pull the updated files with Sammy's picture back to my local drive.
 
 ### Q3 - Animal Image
-
-# My Dog
-Picture of my dog Sammy:
+#Picture of my dog Sammy:
 
 <img src="Sammy.jpeg" height="250" alt="This is a picture of my dog.">
 
