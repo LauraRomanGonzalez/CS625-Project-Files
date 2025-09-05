@@ -35,6 +35,8 @@ Picture of my dog Sammy:
 
 ![My Dog](Sammy.jpeg)
 
+<img src="Sammy.jpeg" height="100" alt="This is a picture of my dog.">
+
 
 ## Tableau
 
