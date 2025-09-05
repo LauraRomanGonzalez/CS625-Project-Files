@@ -16,17 +16,25 @@ Pull command gets the files from GitHub and can send it tothe local computer, an
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If the change is not seen in GitHub there could be potentially one of the three steps that could have been forgotte, either in the add (where the file is staged), in the commit step or in the push. If one is sure of the first two, most likely during the push step it may have not been properly completed.
 
 ## Markdown
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+-Blue
+-Yellow
+-Red
+
+*The difference between bullet list in comparison to number list is one contains numbers; meanwhile, bullet will only contain a symbol. Therefore, with the numbered list, there could be a priority but that may not be the case for the bullet list.  
 
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+The next step is for me to add a picture of my dog **Sammy**. He is an *Australian sheperd*. He is 8 years old, and red merle. He travel from Mississipi to ***Virgina*** with me when he was adopted.
+
+[I'm an inline-style link]([https://www.google.com](https://www.akc.org/dog-breeds/australian-shepherd/)
+
+I will use an 'git pull' to pull the updated files with Sammy's picture back to my local drive.
 
 ### Q3 - Animal Image
 
@@ -84,6 +92,6 @@ Insert your answer and explanation here
 
 *Eavery report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.* ***Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.***
 
-* Graph Network using Vega-Lite or Vega, <https://stackoverflow.com/questions/77096216/graph-network-using-vega-lite-or-vega>
-* Calculating percentage change - Math for journalists, <https://observablehq.com/@nshiab/math-for-journalists>
-* ChatGPT: "How can I add an axis label to my line chart in Seaborn?", <https://chatgpt.com/share/684c8e25-4944-8011-b265-ae9aefc07959>
+*Markdown Section:
+-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links  
+-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
