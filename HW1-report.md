@@ -46,7 +46,7 @@ I will use an 'git pull' to pull the updated files with Sammy's picture back to 
 
 ### Q1 - Region Other Than the South
 
-<img src="SouthPlot.png" height="550" alt="This is a picture of my dog.">
+<img src="SouthPlot.png" height="550" alt="This is a picture from the graph completed in tableau.">
 
 ## Google Colab
 
@@ -58,15 +58,15 @@ I will use an 'git pull' to pull the updated files with Sammy's picture back to 
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+<img src="Scatterplto-Depth.png" height="450" alt="This is a picture of the data from penguin table- Scatterplot.">
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+<img src="BarChart_BodyMass.png" height="450" alt="TThis is a picture of the data from penguin table- Barchart.">
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+Missing a parethesis gave a Syntha Error for Incomplete Input. The code cannot fully run. Python uses whitespace. That means that Python expects the whitespace in your code to behave predictably. 
 
 ## Observable and Vega-Lite
 
@@ -93,3 +93,4 @@ Insert your answer and explanation here
 *Markdown Section:
 -https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links  
 -https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
+-https://realpython.com/invalid-syntax-python/#:~:text=You%20can%20fix%20this%20quickly,the%20file%20contains%20the%20other.  
