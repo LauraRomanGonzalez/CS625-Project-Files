@@ -72,19 +72,19 @@ Missing a parethesis gave a Syntha Error for Incomplete Input. The code cannot f
 
 ### Q1 - markCircle to markSquare
 
-Insert your answer and explanation here
+When changing from MarkCircle to MarkSquare, the graph changed from dots to square shape within the graph. The color and overall image within the graph all reaming the same, execpt for the shape.
 
 ### Q2 - markCircle to markPoint
 
-Insert your answer and explanation here
+When changed to markPoint, the shape now changed to circle shape; however, these are now hollow circles.
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-Insert your answer and explanation here
+If I need to change the X and Y Axes, I would modify these part of the code that titles the X and Y axis. For the x-axis I would modify this part, vl.x().fieldQ("Add Description"), and for the y-axis I would modify here, vl.y().fieldQ("Add Description").
 
 ### Q4 - Remove fieldN(Origin)
 
-Insert your answer and explanation here
+The y-axis, makes a sub-category per the Origin, once I remove the line, the graph did not have to sub-categorize it; thereofre, it would aggregate all.
 
 ## References
 
