@@ -105,6 +105,8 @@ To swap the x- and y-axes, switch the fields used in vl.x() and vl.y(). For exam
 
 The PNG is blank because removing vl.y().fieldN("Origin") eliminates the categorical (grouping) axis that the horizontal bar chart needs to draw one bar per Origin. With no y-encoding, Vega-Lite has nothing to group by, so the chartr renders nothing. To fix it, I would need tokeep the y field (or swap to a vertical bar chart by using vl.x().fieldN("Origin") and keep some type of grouping.
 
+<img src="Vega_BarChart.png" height="350" alt="Vega-Lite Bar Chart remove category.">
+
 ## References
 
 *Eavery report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.* ***Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.***
